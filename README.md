@@ -1,6 +1,14 @@
 # drf_flutter
 
-A new Flutter project.
+THIS IS FRONT_END side of Django REst Framework.
+
+FOR STATE MANAGMENT -- # PROVIDER
+
+Its Do LOGIN / SIGNUP
+
+ON LOGIN -- Generate Auth Token which is used for autologin next time
+
+ALL SERVER RESPONSE ARE SHOWING AS STRING to make is more easy to learn
 
 ## Getting Started
 
